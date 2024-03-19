@@ -79,6 +79,7 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ![alt text](<WEBSERVER EX-01.png>)
+![alt text](<TERMINAL 01.png>)
 
 ## RESULT:
 
